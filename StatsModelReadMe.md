@@ -2,7 +2,7 @@
 
 **Statistical analysis toolkit for California Racial Justice Act (CRJA) litigation**
 
-Developed as part of UC Davis MSBA Practicum with [Redo.io](https://redo.io)
+Developed as part of UC Davis MSBA Practicum with [Redo.io](https://redoio.info/)
 
 ---
 
