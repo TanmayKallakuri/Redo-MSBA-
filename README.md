@@ -153,8 +153,4 @@ See `requirements.txt` for version details.
 
 ## Authors
 
-- [Your Name]
-
-## License
-
-[Add your license here]
+Tanmay Kumar Kallakuri 
